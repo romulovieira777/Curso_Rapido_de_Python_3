@@ -8,5 +8,6 @@
 - [Seção 05 - Tuplas](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2005%20-%20Tuplas)
 - [Seção 06 - Conjuntos](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2006%20-%20Conjuntos)
 - [Seção 07 - Dicionários](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2007%20-%20Dicion%C3%A1rios)
+- [Seção 08 - Operadores Unários](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2008%20-%20Operadores%20Un%C3%A1rios)
 
 Link para o curso 100% gratuito: [Udemy](https://www.udemy.com/course/curso-rapido-de-python/)
