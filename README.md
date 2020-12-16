@@ -4,5 +4,6 @@
 - [Seção 01 - Print](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Print)
 - [Seção 02 - Variáveis](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/blob/main/Se%C3%A7%C3%A3o%2002%20-%20Vari%C3%A1veis/README.md)
 - [Seção 03 - Tipos de Dados Básicos](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2003%20-%20Tipos%20de%20Dados%20B%C3%A1sicos)
+- [Seção 04 - Listas](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Listas)
 
 Link para o curso 100% gratuito: [Udemy](https://www.udemy.com/course/curso-rapido-de-python/)
