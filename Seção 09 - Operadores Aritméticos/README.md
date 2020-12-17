@@ -5,11 +5,7 @@
 | Operadores Aritméticos | Operação                  |
 |------------------------|---------------------------|
 | +                      | Soma os Valores           |
-
 | -                      | Subtração dos Valores     |
-
 | *                      | Multiplicação dos Valores |
-
 | /                      | Divisão dos Valores       |
-
 | %                      | Resto da Divisão          |
