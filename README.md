@@ -11,5 +11,6 @@
 - [Seção 08 - Operadores Unários](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2008%20-%20Operadores%20Un%C3%A1rios)
 - [Seção 09 - Operadores Aritméticos](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2009%20-%20Operadores%20Aritm%C3%A9ticos)
 - [Seção 10 - Operadores Relacionais](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2010%20-%20Operadores%20Relacionais)
+- [Seção 11 - Operadores de Atribuição](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2011%20-%20Operadores%20de%20Atribui%C3%A7%C3%A3o) 
 
 Link para o curso 100% gratuito: [Udemy](https://www.udemy.com/course/curso-rapido-de-python/)
