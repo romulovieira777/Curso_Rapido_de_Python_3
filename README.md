@@ -14,5 +14,6 @@
 - [Seção 11 - Operadores de Atribuição](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2011%20-%20Operadores%20de%20Atribui%C3%A7%C3%A3o)
 - [Seção 12 - Operadores Lógicos](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2012%20-%20Operadores%20L%C3%B3gicos)
 - [Seção 13 - Operador Ternário](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2013%20-%20Operador%20Tern%C3%A1rio)
+- [Seção 14 - Condição IF](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2014%20-%20Condi%C3%A7%C3%A3o%20IF)
 
 Link para o curso 100% gratuito: [Udemy](https://www.udemy.com/course/curso-rapido-de-python/)
