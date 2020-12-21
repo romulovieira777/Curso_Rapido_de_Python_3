@@ -1,0 +1,12 @@
+#### :computer: Comando Python que foram usados nos Arquivos acima::boom:
+- Break (Finaliza a iteração e o Script continua a execução normalmente).
+- Continue (Interrompe a execução do ciclo sem interromper a execução do laço de repetição).
+- End (Permite imprimir na tela os valores em linha).
+- If (É uma estrutura de condição que permite avaliar uma expressão).
+- In (Verifica se o operando a sua esquerda, está contido na lista a sua direita).
+- Items (Permite percorrer somente os items da lista).
+- Keys (Permite percorrer somente as chaves do dicionário).
+- Pass (É usada sempre que o programa requisitar sintaticamente que se preencha uma lacuna).
+- Print (Imprimir um argumento passado na tela).
+- Range (Permite-nos especificar o início da sequência, o passo, e o valor final)
+- Valores (Permite percorrer somente os valores do dicionário).
