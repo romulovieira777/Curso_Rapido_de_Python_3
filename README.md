@@ -17,5 +17,6 @@
 - [Seção 14 - Condição IF](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2014%20-%20Condi%C3%A7%C3%A3o%20IF)
 - [Seção 15 - Laço For](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2015%20-%20La%C3%A7o%20For)
 - [Seção 16 - Laço While](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2016%20-%20La%C3%A7o%20While)
+- [Seção 17 - Funções Básicas](https://github.com/romulovieira777/Curso_Rapido_de_Python_3/tree/main/Se%C3%A7%C3%A3o%2017%20-%20Fun%C3%A7%C3%B5es%20B%C3%A1sicas)
 
 Link para o curso 100% gratuito: [Udemy](https://www.udemy.com/course/curso-rapido-de-python/)
