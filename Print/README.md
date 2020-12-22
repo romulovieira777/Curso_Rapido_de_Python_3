@@ -1,2 +1,2 @@
-#### :computer: Comando Python que foram usados no Arquivo acima::boom:
+#### :computer: Comando Python que foi usado no Arquivo acima::boom:
 - Print (Imprimir um argumento passado na tela).
