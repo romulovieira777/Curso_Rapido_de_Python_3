@@ -1,4 +1,4 @@
-#### :computer: Comando Python que foram usados nos Arquivos acima::boom:
+#### :computer: Comando Python que foram usados no Arquivo acima::boom:
 O que o Print faz:
 
 Imprimi um argumento passado na tela.
